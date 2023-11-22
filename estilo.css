@@ -1,0 +1,46 @@
+h1, h2, h4 {
+    text-align: center;
+}
+
+body, img {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+div {
+    padding: 5%;
+    width: 100%;
+    border: solid rgb(139, 0, 5) 1px;
+    border-radius: 5px;
+    background-color: rgb(235, 233, 233);
+}
+
+strong, h1 {
+    color: firebrick;
+}
+
+img {
+    border-radius: 25%;
+}
+
+.bold {
+    font-weight: bold;
+    color: black;
+}
+
+#rojo {
+    color: firebrick;
+  }
+
+strong em {
+    background-color: black;
+  }
+
+li strong {
+    color: green;
+  }
+
+.Trojo {
+    color: firebrick;
+  }
+  
